@@ -19,6 +19,7 @@ A categorized directory of open-source website templates, UI starters, and full-
 | Portfolio & business websites | Personal portfolios, agency sites, company landing pages | [portfolio-business/](categories/portfolio-business/README.md) |
 | PHP & Laravel | PHP apps, admin panels, business systems | [php-laravel/](categories/php-laravel/README.md) |
 | Education & LMS | Learning platforms and education portals | [education-lms/](categories/education-lms/README.md) |
+| Payment & authentication | Payment gateway experiments and authentication projects | [payment-auth/](categories/payment-auth/README.md) |
 
 ## Recommended starting points
 
@@ -60,4 +61,4 @@ Add entries to the appropriate category README. Each entry should include the up
 
 ## Disclaimer
 
-This is a curated discovery list, not a security audit or endorsement. Technologies, maintainers, features, and licenses can change. Always verify the current upstream repository before adopting a project.
+This is a curated discovery list, not a security audit or endorsement. Technologies, maintainers, features, and licenses can change. Always verify the current upstream repository before adopting it.
