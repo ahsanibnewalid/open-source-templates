@@ -1,5 +1,7 @@
 # Open Source Templates Library
 
+![Open Source Templates Library category banner](assets/library-banner.svg)
+
 A categorized directory of open-source website templates, UI starters, and full-stack application foundations. Use it to compare stacks, inspect demos, customize layouts, and choose a sensible starting point for a project.
 
 > **This repository is a catalog, not a copy of the upstream projects.** It links to original repositories and documentation so their authors retain attribution and updates. Before reuse, check the upstream `LICENSE`, current maintenance status, dependencies, and commercial-use terms.
