@@ -1,0 +1,14 @@
+[submodule "projects/bagisto"]
+	path = projects/bagisto
+	url = https://github.com/bagisto/bagisto.git
+	branch = 2.4
+
+[submodule "projects/medusa"]
+	path = projects/medusa
+	url = https://github.com/medusajs/medusa.git
+	branch = develop
+
+[submodule "projects/saleor"]
+	path = projects/saleor
+	url = https://github.com/saleor/saleor.git
+	branch = main
